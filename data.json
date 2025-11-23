@@ -1,306 +1,213 @@
 [
   {
-    "nome": "Vue.js",
-    "descricao": "Framework progressivo para construção de interfaces de usuário reativas e componentizadas, focado na simplicidade e facilidade de integração.",
-    "data_criacao": "2014",
-    "link": "https://vuejs.org/",
+    "nome": "Futebol",
+    "descricao": "O futebol é um esporte cujo campo de grama apresenta 105 metros de comprimento por 68 metros de largura, uma padronização da Fifa. Duas equipes compostas por 11 jogadores disputam uma partida em que o objetivo é marcar o máximo possível de gols.",
+    "data_criacao": "1863",
+    "link": "https://pt.wikipedia.org/wiki/Futebol",
     "tags": [
-      "framework",
-      "frontend",
-      "reatividade",
-      "componentes"
+      "Esportes",
+      "futebol"
     ]
   },
   {
-    "nome": "TypeScript",
-    "descricao": "Superset de JavaScript que adiciona tipagem estática opcional, melhorando a escalabilidade e manutenção do código em projetos grandes.",
-    "data_criacao": "2012",
-    "link": "https://www.typescriptlang.org/",
+    "nome": "Basquetebol",
+    "descricao": "Esporte coletivo de invasão com duas equipes de cinco jogadores. O objetivo é arremessar a bola em cestos fixos nas extremidades da quadra para marcar pontos.",
+    "data_criacao": "1891",
+    "link": "https://pt.wikipedia.org/wiki/Basquetebol",
     "tags": [
-      "linguagem de programação",
-      "tipagem estática",
-      "compilador",
-      "backend",
-      "frontend"
+      "Esportes",
+      "basquete",
+      "coletivo",
+      "quadra"
     ]
   },
   {
-    "nome": "Go",
-    "descricao": "Linguagem de programação compilada e eficiente, desenvolvida pelo Google, conhecida por sua concorrência robusta e desempenho em sistemas de rede.",
-    "data_criacao": "2009",
-    "link": "https://golang.org/",
+    "nome": "Voleibol",
+    "descricao": "Esporte praticado entre duas equipes numa quadra dividida por uma rede. O objetivo é fazer a bola tocar o chão da quadra adversária, passando-a por cima da rede.",
+    "data_criacao": "1895",
+    "link": "https://pt.wikipedia.org/wiki/Voleibol",
     "tags": [
-      "linguagem de programação",
-      "backend",
-      "concorrência",
-      "sistemas"
+      "Esportes",
+      "vôlei",
+      "coletivo",
+      "quadra",
+      "rede"
     ]
   },
   {
-    "nome": "Rust",
-    "descricao": "Linguagem de programação de sistemas que foca em segurança de memória, paralelismo e alta velocidade, ideal para performance crítica.",
-    "data_criacao": "2010",
-    "link": "https://www.rust-lang.org/",
+    "nome": "Tênis",
+    "descricao": "Esporte de raquete disputado entre dois jogadores (simples) ou duas duplas (duplas). O objetivo é rebater a bola para a quadra adversária de forma que o oponente não consiga devolvê-la.",
+    "data_criacao": "1873",
+    "link": "https://pt.wikipedia.org/wiki/T%C3%AAnis",
     "tags": [
-      "linguagem de programação",
-      "segurança de memória",
-      "sistemas operacionais",
-      "alto desempenho"
+      "Esportes",
+      "tênis",
+      "raquete",
+      "individual",
+      "duplas"
     ]
   },
   {
-    "nome": "Kotlin",
-    "descricao": "Linguagem de programação moderna e pragmática que roda na JVM, totalmente interoperável com Java e amplamente adotada para desenvolvimento Android.",
-    "data_criacao": "2011",
-    "link": "https://kotlinlang.org/",
+    "nome": "Natação",
+    "descricao": "Prática de se mover através da água usando os membros do corpo. Como esporte, envolve competir em diferentes estilos e distâncias no menor tempo possível.",
+    "data_criacao": "Século XIX",
+    "link": "https://pt.wikipedia.org/wiki/Nata%C3%A7%C3%A3o",
     "tags": [
-      "linguagem de programação",
-      "android",
-      "jvm",
-      "multiplataforma"
+      "Esportes",
+      "natação",
+      "aquático",
+      "individual",
+      "piscina"
     ]
   },
   {
-    "nome": "Swift",
-    "descricao": "Linguagem de programação poderosa e intuitiva desenvolvida pela Apple para construir apps para iOS, macOS, watchOS e tvOS.",
-    "data_criacao": "2014",
-    "link": "https://www.swift.org/",
+    "nome": "Judô",
+    "descricao": "Arte marcial japonesa e esporte de combate que tem como objetivo derrubar o oponente e imobilizá-lo no chão, utilizando técnicas de projeção e controle.",
+    "data_criacao": "1882",
+    "link": "https://pt.wikipedia.org/wiki/Jud%C3%B4",
     "tags": [
-      "linguagem de programação",
-      "mobile",
-      "apple",
-      "ios"
+      "Esportes",
+      "judô",
+      "arte marcial",
+      "luta",
+      "individual"
     ]
   },
   {
-    "nome": "Docker",
-    "descricao": "Plataforma de virtualização que utiliza contêineres leves para empacotar, distribuir e executar aplicações e suas dependências de forma isolada.",
-    "data_criacao": "2013",
-    "link": "https://www.docker.com/",
+    "nome": "Handebol",
+    "descricao": "Esporte coletivo em que duas equipes de sete jogadores cada passam a bola com as mãos com o objetivo de arremessá-la ao gol adversário.",
+    "data_criacao": "1919",
+    "link": "https://pt.wikipedia.org/wiki/Andebol",
     "tags": [
-      "devops",
-      "containerização",
-      "virtualização",
-      "ferramenta"
+      "Esportes",
+      "handebol",
+      "coletivo",
+      "quadra"
     ]
   },
   {
-    "nome": "Kubernetes",
-    "descricao": "Sistema de código aberto para automação da implantação, escalonamento e gerenciamento de aplicações em contêineres (orquestração).",
-    "data_criacao": "2014",
-    "link": "https://kubernetes.io/",
+    "nome": "Atletismo",
+    "descricao": "Conjunto de esportes que envolvem corrida, saltos, lançamentos e arremessos. É considerado o esporte-base por testar todas as habilidades humanas básicas.",
+    "data_criacao": "776 a.C.",
+    "link": "https://pt.wikipedia.org/wiki/Atletismo",
     "tags": [
-      "orquestração",
-      "devops",
-      "cloud native",
-      "infraestrutura"
+      "Esportes",
+      "atletismo",
+      "corrida",
+      "salto",
+      "lançamento",
+      "individual"
     ]
   },
   {
-    "nome": "Terraform",
-    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar infraestrutura de nuvem de forma declarativa e imutável.",
-    "data_criacao": "2014",
-    "link": "https://www.terraform.io/",
+    "nome": "Fórmula 1",
+    "descricao": "A categoria mais avançada do esporte a motor, regulamentada pela FIA. As corridas, conhecidas como Grandes Prêmios, ocorrem em circuitos de rua ou autódromos.",
+    "data_criacao": "1950",
+    "link": "https://pt.wikipedia.org/wiki/F%C3%B3rmula_1",
     "tags": [
-      "iac",
-      "devops",
-      "cloud",
-      "gerenciamento de infraestrutura"
+      "Esportes",
+      "automobilismo",
+      "corrida",
+      "velocidade",
+      "motor"
     ]
   },
   {
-    "nome": "PostgreSQL",
-    "descricao": "Poderoso sistema de gerenciamento de banco de dados relacional de código aberto, conhecido por sua robustez e extensibilidade.",
-    "data_criacao": "1996",
-    "link": "https://www.postgresql.org/",
+    "nome": "Boxe",
+    "descricao": "Esporte de combate em que os lutadores usam apenas os punhos para ataque e defesa. O objetivo é nocautear o oponente ou somar mais pontos.",
+    "data_criacao": "Século XVIII",
+    "link": "https://pt.wikipedia.org/wiki/Boxe",
     "tags": [
-      "banco de dados",
-      "relacional",
-      "sql",
-      "código aberto"
+      "Esportes",
+      "boxe",
+      "luta",
+      "combate",
+      "individual"
     ]
   },
   {
-    "nome": "MongoDB",
-    "descricao": "Banco de dados NoSQL orientado a documentos, oferecendo alta flexibilidade e escalabilidade para dados não estruturados.",
-    "data_criacao": "2009",
-    "link": "https://www.mongodb.com/",
+    "nome": "Futebol Americano",
+    "descricao": "Originado do rugby e do futebol, é um esporte de equipe onde o objetivo é avançar com uma bola oval até a 'end zone' adversária para marcar pontos (touchdown).",
+    "data_criacao": "1869",
+    "link": "https://pt.wikipedia.org/wiki/Futebol_americano",
     "tags": [
-      "banco de dados",
-      "nosql",
-      "documento",
-      "escalabilidade"
+      "Esportes",
+      "coletivo",
+      "contato",
+      "bola oval"
     ]
   },
   {
-    "nome": "Redis",
-    "descricao": "Armazenamento de estrutura de dados em memória, usado primariamente como cache, broker de mensagens e banco de dados de baixa latência.",
-    "data_criacao": "2009",
-    "link": "https://redis.io/",
+    "nome": "Hóquei no Gelo",
+    "descricao": "Esporte de equipe disputado em um rinque de gelo, onde os jogadores usam patins e tacos (sticks) para tentar marcar gols com um disco (puck).",
+    "data_criacao": "1834",
+    "link": "https://pt.wikipedia.org/wiki/H%C3%B3quei_no_gelo",
     "tags": [
-      "cache",
-      "banco de dados",
-      "in-memory",
-      "mensageria"
+      "Esportes",
+      "gelo",
+      "coletivo",
+      "inverno"
     ]
   },
   {
-    "nome": "Apache Kafka",
-    "descricao": "Plataforma de streaming de eventos distribuída e tolerante a falhas, usada para construir pipelines de dados em tempo real.",
-    "data_criacao": "2011",
-    "link": "https://kafka.apache.org/",
+    "nome": "Esqui",
+    "descricao": "Prática de deslizar sobre a neve usando esquis fixados aos pés. Pode ser um esporte de lazer ou competitivo, com modalidades como alpino, cross-country e freestyle.",
+    "data_criacao": "Milhares de anos",
+    "link": "https://pt.wikipedia.org/wiki/Esqui",
     "tags": [
-      "mensageria",
-      "streaming de dados",
-      "big data",
-      "arquitetura distribuída"
+      "Esportes",
+      "neve",
+      "inverno",
+      "individual"
     ]
   },
   {
-    "nome": "Node.js",
-    "descricao": "Ambiente de execução de JavaScript assíncrono e orientado a eventos para construir aplicações de rede escaláveis e backend.",
-    "data_criacao": "2009",
-    "link": "https://nodejs.org/",
+    "nome": "Esgrima",
+    "descricao": "Esporte de combate em que dois atletas se enfrentam com armas brancas (florete, espada ou sabre) com o objetivo de tocar o adversário para marcar pontos.",
+    "data_criacao": "Século XVI",
+    "link": "https://pt.wikipedia.org/wiki/Esgrima",
     "tags": [
-      "backend",
-      "runtime",
-      "javascript",
-      "escalabilidade"
+      "Esportes",
+      "luta",
+      "combate",
+      "individual",
+      "arma"
     ]
   },
   {
-    "nome": "Next.js",
-    "descricao": "Framework de React para produção que permite renderização do lado do servidor (SSR), geração de sites estáticos (SSG) e roteamento avançado.",
-    "data_criacao": "2016",
-    "link": "https://nextjs.org/",
+    "nome": "Beach Tennis",
+    "descricao": "Esporte que mistura elementos do tênis tradicional, vôlei de praia e badminton, jogado em uma quadra de areia com raquetes e uma bola específica.",
+    "data_criacao": "Década de 1980",
+    "link": "https://www.itftennis.com/en/beachtennis/",
     "tags": [
-      "framework",
-      "frontend",
-      "ssr",
-      "react",
-      "fullstack"
+      "Esportes",
+      "areia",
+      "raquete",
+      "praia"
     ]
   },
   {
-    "nome": "Svelte",
-    "descricao": "Um compilador de interface de usuário que converte código declarativo em JavaScript imperativo, minimizando o trabalho no navegador.",
-    "data_criacao": "2016",
-    "link": "https://svelte.dev/",
+    "nome": "Futebol de Areia",
+    "descricao": "Variante do futebol jogada na areia, com equipes menores. Sua institucionalização como esporte organizado ocorreu em 1992.",
+    "data_criacao": "1992",
+    "link": "https://pt.wikipedia.org/wiki/Futebol_de_areia",
     "tags": [
-      "framework",
-      "compilador",
-      "frontend",
-      "reatividade"
+      "Esportes",
+      "areia",
+      "praia",
+      "coletivo"
     ]
   },
   {
-    "nome": "GraphQL",
-    "descricao": "Linguagem de consulta para APIs desenvolvida pelo Facebook, permitindo que o cliente solicite apenas os dados de que precisa.",
-    "data_criacao": "2015",
-    "link": "https://graphql.org/",
+    "nome": "Padel",
+    "descricao": "Esporte de raquete jogado em duplas em uma quadra fechada por paredes de vidro e grades. A bola pode quicar nas paredes, tornando o jogo dinâmico.",
+    "data_criacao": "1969",
+    "link": "https://pt.wikipedia.org/wiki/P%C3%A1del",
     "tags": [
-      "api",
-      "protocolo",
-      "frontend",
-      "consulta de dados"
-    ]
-  },
-  {
-    "nome": "AWS Lambda",
-    "descricao": "Serviço de computação serverless da Amazon Web Services que permite executar código em resposta a eventos sem gerenciar servidores.",
-    "data_criacao": "2014",
-    "link": "https://aws.amazon.com/lambda/",
-    "tags": [
-      "cloud",
-      "serverless",
-      "computação",
-      "funções",
-      "backend"
-    ]
-  },
-  {
-    "nome": "TensorFlow",
-    "descricao": "Plataforma de código aberto para aprendizado de máquina, usada para construir e treinar modelos de redes neurais e realizar inferências.",
-    "data_criacao": "2015",
-    "link": "https://www.tensorflow.org/",
-    "tags": [
-      "machine learning",
-      "ia",
-      "deep learning",
-      "biblioteca"
-    ]
-  },
-  {
-    "nome": "Git",
-    "descricao": "Sistema de controle de versão distribuído amplamente utilizado para rastrear mudanças no código-fonte e facilitar a colaboração em projetos.",
-    "data_criacao": "2005",
-    "link": "https://git-scm.com/",
-    "tags": [
-      "controle de versão",
-      "ferramenta",
-      "colaboração",
-      "desenvolvimento"
-    ]
-  },
-  {
-    "nome": "Flutter",
-    "descricao": "Kit de desenvolvimento de UI do Google para criar aplicações compiladas nativamente para mobile, web e desktop a partir de uma única base de código (Dart).",
-    "data_criacao": "2017",
-    "link": "https://flutter.dev/",
-    "tags": [
-      "mobile",
-      "cross-platform",
-      "ui",
-      "framework",
-      "dart"
-    ]
-  },
-  {
-    "nome": "Dart",
-    "descricao": "Linguagem de programação otimizada para o cliente, desenvolvida pelo Google, e primariamente usada no desenvolvimento de aplicativos Flutter.",
-    "data_criacao": "2011",
-    "link": "https://dart.dev/",
-    "tags": [
-      "linguagem de programação",
-      "mobile",
-      "frontend",
-      "flutter"
-    ]
-  },
-  {
-    "nome": "CI/CD",
-    "descricao": "Práticas de Integração Contínua e Entrega/Implantação Contínua, automatizando as etapas de build, teste e deploy de software.",
-    "data_criacao": "2006",
-    "link": "https://www.atlassian.com/continuous-delivery/ci-cd",
-    "tags": [
-      "metodologia",
-      "devops",
-      "automação",
-      "fluxo de trabalho"
-    ]
-  },
-  {
-    "nome": "Solidity",
-    "descricao": "Linguagem de programação orientada a contratos para escrever contratos inteligentes, principalmente na plataforma Ethereum e outras blockchains compatíveis.",
-    "data_criacao": "2014",
-    "link": "https://soliditylang.org/",
-    "tags": [
-      "blockchain",
-      "linguagem de programação",
-      "smart contracts",
-      "ethereum"
-    ]
-  },
-  {
-    "nome": "Ansible",
-    "descricao": "Ferramenta de automação e gerenciamento de configuração que utiliza SSH, focada na simplicidade e na ausência de agentes nos nós gerenciados.",
-    "data_criacao": "2012",
-    "link": "https://www.ansible.com/",
-    "tags": [
-      "devops",
-      "automação",
-      "iac",
-      "configuração"
+      "Esportes",
+      "raquete",
+      "duplas",
+      "quadra fechada"
     ]
   }
 ]
