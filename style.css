@@ -5,10 +5,10 @@
 }
 
 :root {
-    --primary-color: #8ba8a4; /* Define a cor primária (azul claro) para uso em todo o site */
-    --secondary-color: #c3eb34; /* Define a cor secundária (cinza claro) para textos e elementos */
-    --tertiary-color: #6ac267; /* Define a cor terciária (cinza médio) para detalhes e placeholders */
-    --bg-color: #4d2c30; /* Define a cor de fundo principal (cinza escuro) */
+    --primary-color: #21665d; /* Define a cor primária (azul claro) para uso em todo o site */
+    --secondary-color: #000000; /* Define a cor secundária (cinza claro) para textos e elementos */
+    --tertiary-color: #b91d1d; /* Define a cor terciária (cinza médio) para detalhes e placeholders */
+    --bg-color: #ffffff; /* Define a cor de fund  o principal (cinza escuro) */
 }
 
 body {
